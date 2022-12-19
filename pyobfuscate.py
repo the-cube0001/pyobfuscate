@@ -49,7 +49,7 @@ run_obfuscated_code()
 
     return code
 
-# Test the obfuscate function
+# The code that will be obfuscated
 code = '''
 print("hello")
 '''
